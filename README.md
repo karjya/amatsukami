@@ -1,5 +1,11 @@
 # amatsukami
 Telegram Bot for adding members to the club from CRMI (Pavlodar city)
+
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push
+
+
 import telebot
 from telebot import types
 from datetime import datetime
